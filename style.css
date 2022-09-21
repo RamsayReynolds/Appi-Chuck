@@ -107,6 +107,19 @@
     color: white;
 }
 
+.SubTT{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    background-color: #333;
+    margin:auto 400px auto 400px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    padding: 0px 80px 0px 80px;
+    border-radius: 50px;
+    color: white;
+}
 
 .Title{
     display: flex;
@@ -128,4 +141,9 @@
     text-align: center;
     justify-items: center;
     align-items: center;
+}
+
+.H3{
+    text-align: center;
+    color: white;
 }
